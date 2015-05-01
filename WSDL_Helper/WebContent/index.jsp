@@ -36,7 +36,7 @@
 				<div class="wrapper-center">
 					<ul>
 						<li><i class="file-code-o"></i> WSDL Helper</li>
-						<li><a><span>Inicio</span></a></li>
+						<li class="selected"><a><span>Inicio</span></a></li>
 						<li><a><span>Ayuda</span></a></li>
 						<li><a><span>Acerca de</span></a></li>
 					</ul>
